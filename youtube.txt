@@ -1,0 +1,3 @@
+criando uma aplicacao simples com react + redux
+endereco no youtube: 
+https://www.youtube.com/watch?v=x0CYM-TzNis&list=PLbj7Uy2ll934jj9ZdEEnk8e_pVymQ1KIA&index=6
